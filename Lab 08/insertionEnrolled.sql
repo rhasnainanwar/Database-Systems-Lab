@@ -1,0 +1,22 @@
+DELETE FROM enrolled; # delete the existing records
+Insert Into enrolled VALUES 
+(112348546,'Database Systems','2010-11-11','2011-01-15'),
+(115987938,'Database Systems','2010-09-15',NULL),
+(348121549,'Database Systems','2009-08-15','2009-12-15'),
+(322654189,'Database Systems','2010-10-10','2011-02-10'),
+(552455318,'Database Systems','2010-10-10','2011-02-10'),
+(455798411,'Operating System Design','2008-01-20', '2008-07-10'),
+(552455318,'Operating System Design','2008-01-20', '2008-07-10'),
+(567354612,'Operating System Design','2007-02-15', NULL),
+(112348546,'Operating System Design','2010-09-15', '2011-01-15'),
+(115987938,'Operating System Design','2006-02-01', '2006-06-30'),
+(322654189,'Operating System Design','2006-02-01', '2006-06-30'),
+(567354612,'Data Structures','2007-02-15','2007-07-25'),
+(552455318,'Communication Networks','2010-10-10','2011-02-10'),
+(455798411,'Optical Electronics','2009-08-15','2009-12-15'),
+(301221823,'Perception','2009-08-15','2009-12-15'),
+(301221823,'Social Cognition','2009-02-01', '2009-06-30'),
+(301221823,'American Political Parties','2009-07-03','2009-09-30'),
+(556784565,'Air Quality Engineering','2010-09-15', '2011-01-15'),
+(099354543,'Patent Law','2010-10-10','2011-02-10'),
+(574489456,'Urban Economics','2010-10-10','2011-02-10');
